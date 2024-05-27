@@ -3,3 +3,5 @@ print('example #1 - updated')
 print("example 1 - updated for second branch emergency")
 
 print("adding one line to test the push to github")
+
+print("adding one line to check difference with new branch")
